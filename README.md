@@ -6,12 +6,11 @@ This project was designed to be printable with medium-sized printers of 220x220 
 
 # Warning
 * Do note that this is very much a WIP and a hacky personal project. Expect some degree of questionable choices and some boilerplate work needed for exports from FreeCAD. Not quite a kung-fu master of optimal FreeCAD project organization.
-* The project has been designed with a certain set of build items (like mount holes fo specific type-c extenders, PCB mounts of my own PCB, etc.). It's recommended for you to tweak the project to suit your own materials.
+* The project has been designed with a certain set of build items (like mount holes for specific type-c extenders, PCB mounts of my own PCB, etc.). It's recommended for you to tweak the project to suit your own materials.
 * The properties file has been introduced mid-way, so some files still use local property spreadsheets, but getting rid of them is in the works.
 * 1P and 2P buttons distance is not as long as on AC, I shrunk it down because it wouldn't fit on my desk otherwise. AC accurate distance can be restored by tweaking a couple parameters though. P.S., beware of printing tolerances as well.
 * This conntroller was designed with my own needs in mind. For example, it features translucent lightmeshes for lighting strips, which you may not need.
 * If you ever decide to print it, with or without modifications, please assemble your exported models first to verify correctness of all parts.
-* This project initially became as a personal attempt of fixing some of the parts on my Phoenixwan controller. As a result, a couple of parts are replicas of PW's design, specifically the 2 bottom turntable parts. A simpler version of the turntable assembly is coming soon.
 * Because of all of this, for all intents and purposes, consider this as a reference project. This is NOT production ready, you won't be able to print it out of the box directly!! At least for now.
 
 # Attribution
